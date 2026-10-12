@@ -1,0 +1,3 @@
+implement an application that is able to convert the coding region of a gine into an aminoacid sequence. use the genetic code table from the slide
+
+use the AUG as the starting sequence and go from 3 to 3
