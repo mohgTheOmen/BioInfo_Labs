@@ -1,0 +1,5 @@
+# Ignore these directories anywhere in the repository
+.metals/
+.venv/
+.vscode/
+.idea/

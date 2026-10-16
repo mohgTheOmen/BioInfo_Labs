@@ -1,1 +1,3 @@
-.
+Design a software application that is able to read a fasta file of one genome from either a virus or a bacteria. Measure the frequencies of the codons from the sequence of the genome. In order to measure the frequency, use a sliding window of 3 positions to slide over the genome, and counting the frequency of each codon in the sliding window. The application should show the highest frequency top 10 codons. Also, the applicatiomn must show, for each top 10 codons the associated aminoacid (from the codon table)
+
+https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Coronavirus_AcCoV-JC34/all_assembly_versions/GCF_002194405.1_ViralProj390412/
